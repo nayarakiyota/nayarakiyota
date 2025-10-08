@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nayarakiyota/nayarakiyota/main/assets/banner.png.png" alt="Banner" />
+  <img src="[https://raw.githubusercontent.com/nayarakiyota/nayarakiyota/main/assets/banner.png.png](https://github.com/nayarakiyota/nayarakiyota/blob/main/banner.png.png)" alt="Banner" />
 </p>
 
 

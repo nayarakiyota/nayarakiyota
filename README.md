@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/nayarakiyota/nayarakiyota/main/assets/banner.png.png](https://raw.githubusercontent.com/nayarakiyota/nayarakiyota/main/assets/banner.png
-)" alt="Banner" />
-</p>
+
 
 
 <h1 align="center">👩‍💻 Olá, eu sou Nayara Kiyota</h1>

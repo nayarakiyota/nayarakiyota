@@ -1,7 +1,7 @@
-
+<p align="center">
 ![banner.png](banner.png.png)
 
-
+</p>
 
 <h1 align="center">👩‍💻 Olá, eu sou Nayara Kiyota</h1>
 

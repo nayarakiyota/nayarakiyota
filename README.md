@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/qiazjnea4/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2013_42_22.png?updatedAt=1762447412484" width="800" alt="Banner da desenvolvedora">
+  <img src="https://ik.imagekit.io/qiazjnea4/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2013_42_22.png?updatedAt=1762447412484" width="650" alt="Banner da desenvolvedora">
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=450&lines=Olá,+eu+sou+Nayara+Kiyota!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=450&lines=Ol%C3%A1,+eu+sou+Nayara+Kiyota%21" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 👩‍💻 Sobre mim
 
 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou me especializando em **Desenvolvimento Full Stack com foco em Java**. 
 
